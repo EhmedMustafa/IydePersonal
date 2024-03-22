@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Iyde.Web Api.props" />
+</Project>

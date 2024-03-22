@@ -1,0 +1,33 @@
+C:\Users\User\Desktop\IydePersonal\IydePersonal\Iyde.Web Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\IydePersonal\IydePersonal\Iyde.Web Api\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\IydePersonal\IydePersonal\Iyde.Web Api\bin\Debug\net6.0\Iyde.Web Api.exe
+C:\Users\User\Desktop\IydePersonal\IydePersonal\Iyde.Web Api\bin\Debug\net6.0\Iyde.Web Api.deps.json
+C:\Users\User\Desktop\IydePersonal\IydePersonal\Iyde.Web Api\bin\Debug\net6.0\Iyde.Web Api.runtimeconfig.json
+C:\Users\User\Desktop\IydePersonal\IydePersonal\Iyde.Web Api\bin\Debug\net6.0\Iyde.Web Api.dll
+C:\Users\User\Desktop\IydePersonal\IydePersonal\Iyde.Web Api\bin\Debug\net6.0\Iyde.Web Api.pdb
+C:\Users\User\Desktop\IydePersonal\IydePersonal\Iyde.Web Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\IydePersonal\IydePersonal\Iyde.Web Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\IydePersonal\IydePersonal\Iyde.Web Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\IydePersonal\IydePersonal\Iyde.Web Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\IydePersonal\IydePersonal\Iyde.Web Api\obj\Debug\net6.0\Iyde.Web Api.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\IydePersonal\IydePersonal\Iyde.Web Api\obj\Debug\net6.0\Iyde.Web Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\IydePersonal\IydePersonal\Iyde.Web Api\obj\Debug\net6.0\Iyde.Web Api.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\IydePersonal\IydePersonal\Iyde.Web Api\obj\Debug\net6.0\Iyde.Web Api.AssemblyInfo.cs
+C:\Users\User\Desktop\IydePersonal\IydePersonal\Iyde.Web Api\obj\Debug\net6.0\Iyde.Web Api.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IydePersonal\IydePersonal\Iyde.Web Api\obj\Debug\net6.0\Iyde.Web Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\IydePersonal\IydePersonal\Iyde.Web Api\obj\Debug\net6.0\Iyde.Web Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\IydePersonal\IydePersonal\Iyde.Web Api\obj\Debug\net6.0\Iyde.Web Api.sourcelink.json
+C:\Users\User\Desktop\IydePersonal\IydePersonal\Iyde.Web Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\IydePersonal\IydePersonal\Iyde.Web Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\IydePersonal\IydePersonal\Iyde.Web Api\obj\Debug\net6.0\staticwebassets\msbuild.Iyde.Web Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\IydePersonal\IydePersonal\Iyde.Web Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Iyde.Web Api.props
+C:\Users\User\Desktop\IydePersonal\IydePersonal\Iyde.Web Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Iyde.Web Api.props
+C:\Users\User\Desktop\IydePersonal\IydePersonal\Iyde.Web Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Iyde.Web Api.props
+C:\Users\User\Desktop\IydePersonal\IydePersonal\Iyde.Web Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Desktop\IydePersonal\IydePersonal\Iyde.Web Api\obj\Debug\net6.0\scopedcss\bundle\Iyde.Web Api.styles.css
+C:\Users\User\Desktop\IydePersonal\IydePersonal\Iyde.Web Api\obj\Debug\net6.0\Iyde.Web.8557E5C2.Up2Date
+C:\Users\User\Desktop\IydePersonal\IydePersonal\Iyde.Web Api\obj\Debug\net6.0\Iyde.Web Api.dll
+C:\Users\User\Desktop\IydePersonal\IydePersonal\Iyde.Web Api\obj\Debug\net6.0\refint\Iyde.Web Api.dll
+C:\Users\User\Desktop\IydePersonal\IydePersonal\Iyde.Web Api\obj\Debug\net6.0\Iyde.Web Api.pdb
+C:\Users\User\Desktop\IydePersonal\IydePersonal\Iyde.Web Api\obj\Debug\net6.0\Iyde.Web Api.genruntimeconfig.cache
+C:\Users\User\Desktop\IydePersonal\IydePersonal\Iyde.Web Api\obj\Debug\net6.0\ref\Iyde.Web Api.dll

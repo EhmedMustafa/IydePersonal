@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\IydePersonal\\IydePersonal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D00E1DD-F8E2-4B54-8B24-1608F73D2D95}|Iyde.Reposiroty\\Iyde.Reposiroty.csproj|c:\\users\\user\\desktop\\iydepersonal\\iydepersonal\\iyde.reposiroty\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D00E1DD-F8E2-4B54-8B24-1608F73D2D95}|Iyde.Reposiroty\\Iyde.Reposiroty.csproj|solutionrelative:iyde.reposiroty\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C964887F-C7B9-4FFC-AD9A-7A4C46D05D0F}|Iyde.Core\\Iyde.Core.csproj|c:\\users\\user\\desktop\\iydepersonal\\iydepersonal\\iyde.core\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C964887F-C7B9-4FFC-AD9A-7A4C46D05D0F}|Iyde.Core\\Iyde.Core.csproj|solutionrelative:iyde.core\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C964887F-C7B9-4FFC-AD9A-7A4C46D05D0F}|Iyde.Core\\Iyde.Core.csproj|c:\\users\\user\\desktop\\iydepersonal\\iydepersonal\\iyde.core\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C964887F-C7B9-4FFC-AD9A-7A4C46D05D0F}|Iyde.Core\\Iyde.Core.csproj|solutionrelative:iyde.core\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\IydePersonal\\IydePersonal\\Iyde.Reposiroty\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Iyde.Reposiroty\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\IydePersonal\\IydePersonal\\Iyde.Reposiroty\\AppDbContext.cs",
+              "RelativeToolTip": "Iyde.Reposiroty\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T17:05:10.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\IydePersonal\\IydePersonal\\Iyde.Core\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Iyde.Core\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\IydePersonal\\IydePersonal\\Iyde.Core\\Models\\Users.cs",
+              "RelativeToolTip": "Iyde.Core\\Models\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T17:02:37.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\IydePersonal\\IydePersonal\\Iyde.Core\\Models\\Employees.cs",
+              "RelativeDocumentMoniker": "Iyde.Core\\Models\\Employees.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\IydePersonal\\IydePersonal\\Iyde.Core\\Models\\Employees.cs",
+              "RelativeToolTip": "Iyde.Core\\Models\\Employees.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwBoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T16:18:37.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
